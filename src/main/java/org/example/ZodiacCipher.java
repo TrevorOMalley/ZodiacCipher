@@ -4,6 +4,18 @@ import java.util.HashMap;
 import java.util.Map;
 import java.util.Scanner;
 
+/*
+1. This program uses a `HashMap` to define a mapping of letters (A-Z) to unique symbols.
+
+2. The `encrypt` method replaces each letter in the plaintext with its corresponding symbol.
+
+3. The `decrypt` method reverses the process by mapping symbols back to their respective letters.
+
+4. The main method handles user input, calls the encryption and decryption methods, and displays the results.
+
+ */
+
+
 public class ZodiacCipher {
 
     //  Letters to symbols used by Zodiac
