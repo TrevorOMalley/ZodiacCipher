@@ -1,3 +1,15 @@
+/**
+
+ * Project: Lab 5
+ * Purpose Details: Cipher Assignment
+ * Course: IST 242
+ * Author: Trevor OMalley
+ * Date Developed: 10/31/2024
+ * Last Date Changed: 11/10/2024
+ * Rev: 2
+
+ */
+
 package org.example;
 
 import java.util.HashMap;
