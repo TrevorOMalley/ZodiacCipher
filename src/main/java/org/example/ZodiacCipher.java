@@ -7,6 +7,7 @@
  * Date Developed: 10/31/2024
  * Last Date Changed: 11/10/2024
  * Rev: 2
+ * This Cipher is a substitution cipher that is modeled from the infamous Zodiac Cipher
 
  */
 
